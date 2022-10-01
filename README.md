@@ -18,9 +18,11 @@ In my free time, with the thecnology in my side, i usually play games and progra
 
 See you around! 👋
 
-![GFelberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=GFelberg&show_icons=true&theme=radical)
+![GFelberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=GFelberg&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFelberg&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFelberg&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://user-images.githubusercontent.com/41524430/193431355-8b52e1ab-4a25-45a2-9140-b221bde764cd.png) ![image](https://user-images.githubusercontent.com/41524430/193431364-ac5ca62e-ff0b-4dd7-b03e-6a76ed4f4b5a.png)
+
+
 
 <!--
 **GFelberg/GFelberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
