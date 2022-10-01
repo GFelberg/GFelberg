@@ -1,4 +1,4 @@
-#### **Portuguese:**
+### **Portuguese:**
 
 Olá! 👋 Eu sou Gabriel Felberg, porém mais conhecido por GFelberg
 
@@ -8,7 +8,7 @@ Durante o meu tempo livre, ao lado da tecnologia, eu costumo jogar videogame �
 
 Te vejo por aí! 👋
 
-#### **English:** 
+### **English:** 
 
 Hello There! 👋 My name is Gabriel Felberg, although more recognized as GFelberg
 
