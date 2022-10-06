@@ -18,7 +18,7 @@ See you around! 👋
 
 <div align="center">
   <a href="https://github.com/GFelberg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GFelberg&count_private=true&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GFelberg&show_icons=true&theme=radical"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFelberg&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
