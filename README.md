@@ -10,7 +10,7 @@ Te vejo por aí! 👋
 ### **English:** 
 Hello There! 👋 My name is Gabriel Felberg, although more recognized as GFelberg
 
-Nowadays, I'm a Computer Science student 🖥️, in the sixth period, which searchs explore more and more the technology world. Inside of these areas, I look work in the future with Cyber Security.
+Nowadays, I'm a Computer Science student 🖥️, in the eight period, which searchs explore more and more the technology world. Inside of these areas, I look work in the future with Cyber Security.
 
 In my free time, with the thecnology in my side, i usually play games and programm, and there's sometimes that I'm programming for a game that I'm actually playing. That's crazy! 🤣
 
