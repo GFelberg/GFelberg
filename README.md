@@ -1,7 +1,7 @@
 ### **Portuguese:**
 Olá! 👋 Eu sou Gabriel Felberg, porém mais conhecido por GFelberg
 
-Atualmente sou estudante de Ciência da Computação 🖥️, no 6° período, que busca explorar cada vez mais o mundo da tecnologia. Dentre as áreas, uma que procuro futuramente trabalhar é com a Segurança da Informação.
+Atualmente sou estudante de Ciência da Computação 🖥️, no 8.2° período, que busca explorar cada vez mais o mundo da tecnologia. Dentre as áreas, uma que procuro futuramente trabalhar é com a Segurança da Informação.
 
 Durante o meu tempo livre, ao lado da tecnologia, eu costumo jogar videogame 🎮 e programar, e tem até vezes que a programação é voltada para jogos que eu jogo. Que doidera! 🤣
 
