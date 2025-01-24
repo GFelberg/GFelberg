@@ -1,20 +1,17 @@
 ### **Portuguese:**
-Olá! 👋 Eu sou Gabriel Felberg, porém mais conhecido por GFelberg
+Olá! 👋 Eu sou Gabriel Felberg, porém mais conhecido por GFelberg.
 
-Atualmente sou estudante de Ciência da Computação 🖥️, no 8.2° período, que busca explorar cada vez mais o mundo da tecnologia. Dentre as áreas, uma que procuro futuramente trabalhar é com a Segurança da Informação.
+Atualmente, sou Analista em Testes de Software Júnior, ou popularmente conhecido como QA. De estagiário ao efetivo, adquiri experiência com diversas ferramentas como o Docker, Visual Studio Code, Jira, Postman, K6, Git, GitLab e CastleMock.
 
-Durante o meu tempo livre, ao lado da tecnologia, eu costumo jogar videogame 🎮 e programar, e tem até vezes que a programação é voltada para jogos que eu jogo. Que doidera! 🤣
+Fora do trabalho, o meu lazer é voltado em jogar 🎮 e desenvolver projetos pessoais. Dentre as áreas de meu interesse é a Segurança da Informação, com a visão de unir os conhecimentos de QA em identificar vulnerabilidades de segurança das ferramentas, sistema, entre outros que estejam diante do meu alcance.
 
-Te vejo por aí! 👋
 
 ### **English:** 
 Hello There! 👋 My name is Gabriel Felberg, although more recognized as GFelberg
 
-Nowadays, I'm a Computer Science student 🖥️, in the eight period, which searchs explore more and more the technology world. Inside of these areas, I look work in the future with Cyber Security.
+Nowadays, I'm a Software Testing Analyst. I already acquired knowledge with some tools, like Docker, Visual Studio Code, Jira, Postman, K6, Git, GitLab and CastleMock.
 
-In my free time, with the thecnology in my side, i usually play games and programm, and there's sometimes that I'm programming for a game that I'm actually playing. That's crazy! 🤣
-
-See you around! 👋
+In my free time, I'm always playing some games and develloping personal projects. I have desires for Cybersecurity, with the idea to unify my knowledge to avoid any vulnerability in another systems in my range.
 
 <div align="center">
   <a href="https://github.com/GFelberg">
